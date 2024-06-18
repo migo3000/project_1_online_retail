@@ -1,0 +1,66 @@
+REF_DATE,GEO,DGUID,North American Industry Classification System (NAICS),Adjustments,UOM,UOM_ID,SCALAR_FACTOR,VECTOR,VALUE
+2022-08,Newfoundland and Labrador,2016A000210,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367394,931693
+2022-09,Newfoundland and Labrador,2016A000210,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367394,916938
+2022-10,Newfoundland and Labrador,2016A000210,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367394,941077
+2022-11,Newfoundland and Labrador,2016A000210,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367394,915038
+2022-12,Newfoundland and Labrador,2016A000210,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367394,921506
+2022-08,Prince Edward Island,2016A000211,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367424,272028
+2022-09,Prince Edward Island,2016A000211,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367424,264454
+2022-10,Prince Edward Island,2016A000211,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367424,280934
+2022-11,Prince Edward Island,2016A000211,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367424,280097
+2022-12,Prince Edward Island,2016A000211,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367424,278806
+2022-08,Nova Scotia,2016A000212,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367454,1643701
+2022-09,Nova Scotia,2016A000212,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367454,1614045
+2022-10,Nova Scotia,2016A000212,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367454,1706821
+2022-11,Nova Scotia,2016A000212,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367454,1701732
+2022-12,Nova Scotia,2016A000212,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367454,1685421
+2022-08,New Brunswick,2016A000213,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367484,1351208
+2022-09,New Brunswick,2016A000213,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367484,1360538
+2022-10,New Brunswick,2016A000213,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367484,1421317
+2022-11,New Brunswick,2016A000213,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367484,1372413
+2022-12,New Brunswick,2016A000213,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367484,1360389
+2022-08,Quebec,2016A000224,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367514,13841497
+2022-09,Quebec,2016A000224,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367514,13625373
+2022-10,Quebec,2016A000224,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367514,14001401
+2022-11,Quebec,2016A000224,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367514,13983201
+2022-12,Quebec,2016A000224,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367514,14132157
+2022-08,Ontario,2016A000235,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367573,22277448
+2022-09,Ontario,2016A000235,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367573,22510264
+2022-10,Ontario,2016A000235,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367573,22417880
+2022-11,Ontario,2016A000235,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367573,22420167
+2022-12,Ontario,2016A000235,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367573,22632634
+2022-08,Manitoba,2016A000246,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367155,2169964
+2022-09,Manitoba,2016A000246,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367155,2134604
+2022-10,Manitoba,2016A000246,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367155,2185909
+2022-11,Manitoba,2016A000246,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367155,2212917
+2022-12,Manitoba,2016A000246,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367155,2198603
+2022-08,Saskatchewan,2016A000247,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367185,2063517
+2022-09,Saskatchewan,2016A000247,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367185,2070611
+2022-10,Saskatchewan,2016A000247,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367185,2120576
+2022-11,Saskatchewan,2016A000247,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367185,2112060
+2022-12,Saskatchewan,2016A000247,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367185,2107361
+2022-08,Alberta,2016A000248,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367215,8072334
+2022-09,Alberta,2016A000248,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367215,7954628
+2022-10,Alberta,2016A000248,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367215,8065198
+2022-11,Alberta,2016A000248,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367215,8070670
+2022-12,Alberta,2016A000248,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367215,8183031
+2022-08,British Columbia,2016A000259,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367245,8607565
+2022-09,British Columbia,2016A000259,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367245,8387672
+2022-10,British Columbia,2016A000259,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367245,8462804
+2022-11,British Columbia,2016A000259,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367245,8513399
+2022-12,British Columbia,2016A000259,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367245,8416964
+2022-08,Yukon,2016A000260,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367304,87605
+2022-09,Yukon,2016A000260,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367304,83987
+2022-10,Yukon,2016A000260,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367304,86169
+2022-11,Yukon,2016A000260,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367304,85573
+2022-12,Yukon,2016A000260,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367304,84685
+2022-08,Northwest Territories,2016A000261,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367334,71237
+2022-09,Northwest Territories,2016A000261,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367334,73431
+2022-10,Northwest Territories,2016A000261,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367334,74574
+2022-11,Northwest Territories,2016A000261,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367334,71328
+2022-12,Northwest Territories,2016A000261,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367334,72061
+2022-08,Nunavut,2016A000262,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367364,47074
+2022-09,Nunavut,2016A000262,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367364,47366
+2022-10,Nunavut,2016A000262,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367364,49371
+2022-11,Nunavut,2016A000262,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367364,49479
+2022-12,Nunavut,2016A000262,Retail trade [44-45],Seasonally adjusted,Dollars,81,thousands,v52367364,48942
